@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1B52E33D1FF6D8BD00013961 /* Concentrate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentrate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B52E33D1FF6D8BD00013961 /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B52E3401FF6D8BD00013961 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1B52E3421FF6D8BD00013961 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1B52E3451FF6D8BD00013961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		1B52E33E1FF6D8BD00013961 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1B52E33D1FF6D8BD00013961 /* Concentrate.app */,
+				1B52E33D1FF6D8BD00013961 /* Concentration.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -75,9 +75,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1B52E33C1FF6D8BD00013961 /* Concentrate */ = {
+		1B52E33C1FF6D8BD00013961 /* Concentration */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1B52E34F1FF6D8BD00013961 /* Build configuration list for PBXNativeTarget "Concentrate" */;
+			buildConfigurationList = 1B52E34F1FF6D8BD00013961 /* Build configuration list for PBXNativeTarget "Concentration" */;
 			buildPhases = (
 				1B52E3391FF6D8BD00013961 /* Sources */,
 				1B52E33A1FF6D8BD00013961 /* Frameworks */,
@@ -87,9 +87,9 @@
 			);
 			dependencies = (
 			);
-			name = Concentrate;
+			name = Concentration;
 			productName = Concentrate;
-			productReference = 1B52E33D1FF6D8BD00013961 /* Concentrate.app */;
+			productReference = 1B52E33D1FF6D8BD00013961 /* Concentration.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1B52E33C1FF6D8BD00013961 /* Concentrate */,
+				1B52E33C1FF6D8BD00013961 /* Concentration */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1B52E34F1FF6D8BD00013961 /* Build configuration list for PBXNativeTarget "Concentrate" */ = {
+		1B52E34F1FF6D8BD00013961 /* Build configuration list for PBXNativeTarget "Concentration" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1B52E3501FF6D8BD00013961 /* Debug */,
